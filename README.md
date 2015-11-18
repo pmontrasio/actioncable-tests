@@ -1,5 +1,8 @@
 # README #
 
+
+This is based on https://github.com/pmontrasio/actioncable-devise
+
 This is a basic webapp that integrates devise with the websocket authentication.
 
 It builds over the example at https://github.com/rails/actioncable
